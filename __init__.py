@@ -105,5 +105,9 @@ def state_abbrev(df):
 def add_list_to_df(df, list):
     return df.append(pd.Series(list))
     
-# 
+# 1.5* interquartile range outlier detection/removal function
+
+# Split dates into multiple columns
+
+# Classification and regression metrics
     
