@@ -20,7 +20,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/DimaKav/lambdata",
     packages=setuptools.find_packages(),
-    python_requires=">=3.5",
+    python_requires=">=3.7",
     install_requires=REQUIRED,
     classifiers=[
         "Programming Language :: Python :: 3",
