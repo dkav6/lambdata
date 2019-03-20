@@ -1,2 +1,2 @@
 # lambdata
-A collection of data science helper functions.
+Experimenting with making python packages
